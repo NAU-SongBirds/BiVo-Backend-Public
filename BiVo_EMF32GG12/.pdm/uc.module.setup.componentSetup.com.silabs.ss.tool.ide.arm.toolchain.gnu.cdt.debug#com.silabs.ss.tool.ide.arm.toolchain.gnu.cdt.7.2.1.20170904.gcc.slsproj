@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="uc.module.setup.componentSetup.com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt.debug#com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:7.2.1.20170904.gcc" propertyScope="project">
+  <folder name="gecko_sdk_3.1.1">
+    <folder name="platform">
+      <folder name="common">
+        <folder name="toolchain">
+          <folder name="src">
+            <file name="sl_memory.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/src/sl_memory.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_memory_region.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/inc/sl_memory_region.h"/>
+            <file name="sl_memory.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/inc/sl_memory.h"/>
+            <file name="sl_gcc_preinclude.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/inc/sl_gcc_preinclude.h"/>
+          </folder>
+        </folder>
+        <folder name="inc">
+          <file name="sl_enum.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/inc/sl_enum.h"/>
+          <file name="sl_status.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/inc/sl_status.h"/>
+        </folder>
+      </folder>
+      <folder name="emlib">
+        <folder name="src">
+          <file name="em_system.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_system.c"/>
+          <file name="em_gpio.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_gpio.c"/>
+          <file name="em_emu.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_emu.c"/>
+          <file name="em_cmu.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_cmu.c"/>
+          <file name="em_assert.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_assert.c"/>
+          <file name="em_core.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_core.c"/>
+        </folder>
+        <folder name="inc">
+          <file name="em_system.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_system.h"/>
+          <file name="em_chip.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_chip.h"/>
+          <file name="em_gpio.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_gpio.h"/>
+          <file name="em_emu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_emu.h"/>
+          <file name="em_cmu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_cmu.h"/>
+          <file name="em_cmu_compat.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_cmu_compat.h"/>
+          <file name="em_assert.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_assert.h"/>
+          <file name="em_bus.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_bus.h"/>
+          <file name="em_common.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_common.h"/>
+          <file name="em_ramfunc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_ramfunc.h"/>
+          <file name="em_version.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_version.h"/>
+          <file name="em_core.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_core.h"/>
+        </folder>
+      </folder>
+      <folder name="service">
+        <folder name="device_init">
+          <folder name="src">
+            <file name="sl_device_init_emu_s1.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_emu_s1.c"/>
+            <file name="sl_device_init_dcdc_s1.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_dcdc_s1.c"/>
+            <file name="sl_device_init_lfxo_s1.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_lfxo_s1.c"/>
+            <file name="sl_device_init_hfxo_s1.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_hfxo_s1.c"/>
+            <file name="sl_device_init_nvic.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_nvic.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_device_init_emu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_emu.h"/>
+            <file name="sl_device_init_dcdc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_dcdc.h"/>
+            <file name="sl_device_init_lfxo.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_lfxo.h"/>
+            <file name="sl_device_init_hfxo.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_hfxo.h"/>
+            <file name="sl_device_init_clocks.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_clocks.h"/>
+            <file name="sl_device_init_nvic.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_nvic.h"/>
+          </folder>
+        </folder>
+        <folder name="system">
+          <folder name="src">
+            <file name="sl_system_process_action.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/src/sl_system_process_action.c"/>
+            <file name="sl_system_init.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/src/sl_system_init.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_system_process_action.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/inc/sl_system_process_action.h"/>
+            <file name="sl_system_init.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/inc/sl_system_init.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="CMSIS">
+        <folder name="Include">
+          <file name="arm_common_tables.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/arm_common_tables.h"/>
+          <file name="arm_const_structs.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/arm_const_structs.h"/>
+          <file name="arm_math.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/arm_math.h"/>
+          <file name="cmsis_compiler.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/cmsis_compiler.h"/>
+          <file name="cmsis_version.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/cmsis_version.h"/>
+          <file name="cmsis_gcc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/cmsis_gcc.h"/>
+          <file name="core_cm4.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/core_cm4.h"/>
+          <file name="mpu_armv7.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/mpu_armv7.h"/>
+        </folder>
+      </folder>
+      <folder name="Device">
+        <folder name="SiliconLabs">
+          <folder name="EFM32GG12B">
+            <folder name="Source">
+              <folder name="GCC">
+                <file name="startup_efm32gg12b.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Source/GCC/startup_efm32gg12b.c"/>
+              </folder>
+              <file name="system_efm32gg12b.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Source/system_efm32gg12b.c"/>
+            </folder>
+            <folder name="Include">
+              <file name="efm32gg12b810f1024gm64.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b810f1024gm64.h"/>
+              <file name="efm32gg12b_acmp.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_acmp.h"/>
+              <file name="efm32gg12b_adc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_adc.h"/>
+              <file name="efm32gg12b_af_pins.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_af_pins.h"/>
+              <file name="efm32gg12b_af_ports.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_af_ports.h"/>
+              <file name="efm32gg12b_can.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_can.h"/>
+              <file name="efm32gg12b_can_mir.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_can_mir.h"/>
+              <file name="efm32gg12b_cmu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_cmu.h"/>
+              <file name="efm32gg12b_cryotimer.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_cryotimer.h"/>
+              <file name="efm32gg12b_crypto.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_crypto.h"/>
+              <file name="efm32gg12b_csen.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_csen.h"/>
+              <file name="efm32gg12b_devinfo.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_devinfo.h"/>
+              <file name="efm32gg12b_dma_descriptor.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_dma_descriptor.h"/>
+              <file name="efm32gg12b_dmareq.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_dmareq.h"/>
+              <file name="efm32gg12b_ebi.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_ebi.h"/>
+              <file name="efm32gg12b_emu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_emu.h"/>
+              <file name="efm32gg12b_etm.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_etm.h"/>
+              <file name="efm32gg12b_fpueh.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_fpueh.h"/>
+              <file name="efm32gg12b_gpcrc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_gpcrc.h"/>
+              <file name="efm32gg12b_gpio.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_gpio.h"/>
+              <file name="efm32gg12b_gpio_p.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_gpio_p.h"/>
+              <file name="efm32gg12b_i2c.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_i2c.h"/>
+              <file name="efm32gg12b_idac.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_idac.h"/>
+              <file name="efm32gg12b_lcd.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_lcd.h"/>
+              <file name="efm32gg12b_ldma.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_ldma.h"/>
+              <file name="efm32gg12b_ldma_ch.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_ldma_ch.h"/>
+              <file name="efm32gg12b_lesense.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_lesense.h"/>
+              <file name="efm32gg12b_lesense_buf.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_lesense_buf.h"/>
+              <file name="efm32gg12b_lesense_ch.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_lesense_ch.h"/>
+              <file name="efm32gg12b_lesense_st.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_lesense_st.h"/>
+              <file name="efm32gg12b_letimer.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_letimer.h"/>
+              <file name="efm32gg12b_leuart.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_leuart.h"/>
+              <file name="efm32gg12b_msc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_msc.h"/>
+              <file name="efm32gg12b_pcnt.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_pcnt.h"/>
+              <file name="efm32gg12b_pdm.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_pdm.h"/>
+              <file name="efm32gg12b_prs.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_prs.h"/>
+              <file name="efm32gg12b_prs_ch.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_prs_ch.h"/>
+              <file name="efm32gg12b_prs_signals.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_prs_signals.h"/>
+              <file name="efm32gg12b_qspi.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_qspi.h"/>
+              <file name="efm32gg12b_rmu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_rmu.h"/>
+              <file name="efm32gg12b_romtable.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_romtable.h"/>
+              <file name="efm32gg12b_rtc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_rtc.h"/>
+              <file name="efm32gg12b_rtc_comp.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_rtc_comp.h"/>
+              <file name="efm32gg12b_rtcc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_rtcc.h"/>
+              <file name="efm32gg12b_rtcc_cc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_rtcc_cc.h"/>
+              <file name="efm32gg12b_rtcc_ret.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_rtcc_ret.h"/>
+              <file name="efm32gg12b_sdio.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_sdio.h"/>
+              <file name="efm32gg12b_smu.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_smu.h"/>
+              <file name="efm32gg12b_timer.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_timer.h"/>
+              <file name="efm32gg12b_timer_cc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_timer_cc.h"/>
+              <file name="efm32gg12b_trng.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_trng.h"/>
+              <file name="efm32gg12b_uart.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_uart.h"/>
+              <file name="efm32gg12b_usart.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_usart.h"/>
+              <file name="efm32gg12b_usb.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_usb.h"/>
+              <file name="efm32gg12b_usb_diep.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_usb_diep.h"/>
+              <file name="efm32gg12b_usb_doep.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_usb_doep.h"/>
+              <file name="efm32gg12b_usb_hc.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_usb_hc.h"/>
+              <file name="efm32gg12b_vdac.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_vdac.h"/>
+              <file name="efm32gg12b_vdac_opa.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_vdac_opa.h"/>
+              <file name="efm32gg12b_wdog.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_wdog.h"/>
+              <file name="efm32gg12b_wdog_pch.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/efm32gg12b_wdog_pch.h"/>
+              <file name="em_device.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/em_device.h"/>
+              <file name="system_efm32gg12b.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFM32GG12B/Include/system_efm32gg12b.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="hardware">
+      <folder name="board">
+        <folder name="src">
+          <file name="sl_board_init.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/src/sl_board_init.c"/>
+          <file name="sl_board_control_gpio.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/src/sl_board_control_gpio.c"/>
+        </folder>
+        <folder name="inc">
+          <file name="sl_board_control.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/inc/sl_board_control.h"/>
+          <file name="sl_board_init.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/inc/sl_board_init.h"/>
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+  <file name="app.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/app/common/example/empty/app.c"/>
+  <file name="main.c" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/app/common/example/empty/main.c"/>
+  <file name="app.h" linked="false" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/app/common/example/empty/app.h"/>
+  <includePath uri="studio:/project/"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/common/toolchain/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/hardware/board/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/emlib/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/service/device_init/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/common/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/service/system/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/CMSIS/Include"/>
+  <includePath uri="studio:/project/gecko_sdk_3.1.1/platform/Device/SiliconLabs/EFM32GG12B/Include"/>
+  <macroDefinition name="DEBUG_EFM"/>
+  <macroDefinition name="SL_COMPONENT_CATALOG_PRESENT"/>
+  <macroDefinition name="EFM32GG12B810F1024GM64"/>
+  <libraryFile name="gcc"/>
+  <libraryFile name="c"/>
+  <libraryFile name="m"/>
+  <libraryFile name="nosys"/>
+  <toolOption toolId="makefile.arm.gcc.linker" optionId="misc">
+    <toolListOption value="-Wl,--gc-sections"/>
+    <toolListOption value="-Xlinker -Map=$(OUTPUT_DIR)/$(PROJECTNAME).map"/>
+  </toolOption>
+  <toolOption toolId="makefile.arm.gcc.compiler" optionId="misc">
+    <toolListOption value="--specs=nano.specs"/>
+    <toolListOption value="-g"/>
+  </toolOption>
+  <toolOption toolId="studio.ide.project" optionId="device_opn" value="efm32gg12b810f1024gm64"/>
+  <toolOption toolId="makefile.arm.gcc.assembler" optionId="misc">
+    <toolListOption value="-x assembler-with-cpp"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.circulardependency" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nostdlibs" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.circulardependency" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.gnu.c.compiler.option.misc.otherlist">
+    <toolListOption value="-c"/>
+    <toolListOption value="-fmessage-length=0"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.gnu.cpp.compiler.option.misc.otherlist">
+    <toolListOption value="-c"/>
+    <toolListOption value="-fmessage-length=0"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.assembler" optionId="toolOption.uc.assembler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.function_sections" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.data_sections" value="true"/>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.nano_c_libs" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.omit_frame_pointer" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_exceptions" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_rtti" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_builtin" value="true"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.cpu" value="cortex-m4"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.fpu" value="fpv4-sp"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.float_abi" value="softfp"/>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.linkerScript" value="$project/autogen/linkerfile.ld"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.c_standard" value="c99"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.cxx_standard" value="c++11"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.all" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.extra" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.pedantic" value="false"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.are_errors" value="false"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.optimization" value="size"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.preinclude">
+    <toolListOption builtin="true" value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.preinclude">
+    <toolListOption builtin="true" value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.preinclude">
+    <toolListOption builtin="true" value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.misc.dialect" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.misc.dialect.c99"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.misc.dialect" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.misc.dialect.cpp0x"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.no_rtti" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.no_exceptions" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.debug.builtin" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.debug.builtin" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.level" value="gnu.c.optimization.level.size"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.level" value="gnu.cpp.compiler.optimization.level.size"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.datasect" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.datasect" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.functionsects" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.functionsects" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.omitframepointer" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.omitframepointer" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.allwarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.allwarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.extrawarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.extrawarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.toerrors" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.toerrors" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.pedantic" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.pedantic" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.script" value="${workspace_loc:/${ProjName}}/autogen/linkerfile.ld"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.usescript" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.clibs" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nanospec"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.clibs" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nanospec"/>
+</project>

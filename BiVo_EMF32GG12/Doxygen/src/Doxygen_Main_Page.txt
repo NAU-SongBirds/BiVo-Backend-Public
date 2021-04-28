@@ -1,0 +1,13 @@
+/**
+ *
+ * @mainpage BiVo Thunderboard EFM32GG12-BRD2207A
+ *
+ * @authors Anqi Wang, Daniel Mercado, Yasmin Vega, Kevin Imlay
+ *
+ * Website: https://ceias.nau.edu/capstone/projects/CS/2021/Songbird-F20/
+ *
+ * Contact: Kevin Imlay - kgimlay@gmail.com
+ *
+ * Team SongBird - Northern Arizona University 2020-2021 Senior Capstone Project
+ *
+ */

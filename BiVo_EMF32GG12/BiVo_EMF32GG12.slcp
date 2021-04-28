@@ -1,0 +1,25 @@
+# Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
+include:
+- path: ''
+  file_list:
+  - {path: app.h}
+component:
+- {id: brd2207a}
+- {id: sl_system}
+- {id: device_init}
+- {id: EFM32GG12B810F1024GM64}
+package: platform
+define:
+- {name: DEBUG_EFM}
+description: |
+  This example project shows an empty configuration that can be used as a starting point to add components and functionality.
+label: BiVo_EMF32GG12
+source:
+- {path: app.c}
+- {path: main.c}
+project_name: BiVo_EMF32GG12
+category: Example|Platform
+toolchain_settings: []
+ui_hints: {}
+quality: production
+

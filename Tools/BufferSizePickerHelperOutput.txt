@@ -1,0 +1,252 @@
+Num Buffs: 4 | Buff Total Size: 22050  |Rec Start: 3 / 4
+Length: 0.72 seconds | Samples: 15887 | Sent: 10375
+
+Num Buffs: 4 | Buff Total Size: 44100  |Rec Start: 3 / 4
+Length: 1.44 seconds | Samples: 31776 | Sent: 20751
+
+Num Buffs: 4 | Buff Total Size: 66150  |Rec Start: 3 / 4
+Length: 2.16 seconds | Samples: 47665 | Sent: 31128
+
+Num Buffs: 4 | Buff Total Size: 88200  |Rec Start: 3 / 4
+Length: 2.88 seconds | Samples: 63554 | Sent: 41504
+
+Num Buffs: 5 | Buff Total Size: 22050  |Rec Start: 3 / 5
+Length: 1.15 seconds | Samples: 25420 | Sent: 16600
+
+Num Buffs: 5 | Buff Total Size: 22050  |Rec Start: 4 / 5
+Length: 0.58 seconds | Samples: 12709 | Sent: 8299
+
+Num Buffs: 5 | Buff Total Size: 44100  |Rec Start: 3 / 5
+Length: 2.31 seconds | Samples: 50842 | Sent: 33202
+
+Num Buffs: 5 | Buff Total Size: 44100  |Rec Start: 4 / 5
+Length: 1.15 seconds | Samples: 25420 | Sent: 16600
+
+Num Buffs: 5 | Buff Total Size: 66150  |Rec Start: 3 / 5
+Length: 3.46 seconds | Samples: 76265 | Sent: 49805
+
+Num Buffs: 5 | Buff Total Size: 66150  |Rec Start: 4 / 5
+Length: 1.73 seconds | Samples: 38131 | Sent: 24901
+
+Num Buffs: 5 | Buff Total Size: 88200  |Rec Start: 3 / 5
+Length: 4.61 seconds | Samples: 101687 | Sent: 66407
+
+Num Buffs: 5 | Buff Total Size: 88200  |Rec Start: 4 / 5
+Length: 2.31 seconds | Samples: 50842 | Sent: 33202
+
+Num Buffs: 6 | Buff Total Size: 22050  |Rec Start: 3 / 6
+Length: 1.44 seconds | Samples: 31776 | Sent: 20751
+
+Num Buffs: 6 | Buff Total Size: 22050  |Rec Start: 4 / 6
+Length: 0.96 seconds | Samples: 21183 | Sent: 13833
+
+Num Buffs: 6 | Buff Total Size: 22050  |Rec Start: 5 / 6
+Length: 0.48 seconds | Samples: 10590 | Sent: 6915
+
+Num Buffs: 6 | Buff Total Size: 44100  |Rec Start: 3 / 6
+Length: 2.88 seconds | Samples: 63554 | Sent: 41504
+
+Num Buffs: 6 | Buff Total Size: 44100  |Rec Start: 4 / 6
+Length: 1.92 seconds | Samples: 42368 | Sent: 27668
+
+Num Buffs: 6 | Buff Total Size: 44100  |Rec Start: 5 / 6
+Length: 0.96 seconds | Samples: 21183 | Sent: 13833
+
+Num Buffs: 6 | Buff Total Size: 66150  |Rec Start: 3 / 6
+Length: 4.32 seconds | Samples: 95331 | Sent: 62256
+
+Num Buffs: 6 | Buff Total Size: 66150  |Rec Start: 4 / 6
+Length: 2.88 seconds | Samples: 63554 | Sent: 41504
+
+Num Buffs: 6 | Buff Total Size: 66150  |Rec Start: 5 / 6
+Length: 1.44 seconds | Samples: 31776 | Sent: 20751
+
+Num Buffs: 6 | Buff Total Size: 88200  |Rec Start: 3 / 6
+Length: 5.76 seconds | Samples: 127109 | Sent: 83009
+
+Num Buffs: 6 | Buff Total Size: 88200  |Rec Start: 4 / 6
+Length: 3.84 seconds | Samples: 84739 | Sent: 55339
+
+Num Buffs: 6 | Buff Total Size: 88200  |Rec Start: 5 / 6
+Length: 1.92 seconds | Samples: 42368 | Sent: 27668
+
+Num Buffs: 7 | Buff Total Size: 22050  |Rec Start: 3 / 7
+Length: 1.65 seconds | Samples: 36315 | Sent: 23715
+
+Num Buffs: 7 | Buff Total Size: 22050  |Rec Start: 4 / 7
+Length: 1.24 seconds | Samples: 27236 | Sent: 17786
+
+Num Buffs: 7 | Buff Total Size: 22050  |Rec Start: 5 / 7
+Length: 0.82 seconds | Samples: 18156 | Sent: 11856
+
+Num Buffs: 7 | Buff Total Size: 22050  |Rec Start: 6 / 7
+Length: 0.41 seconds | Samples: 9077 | Sent: 5927
+
+Num Buffs: 7 | Buff Total Size: 44100  |Rec Start: 3 / 7
+Length: 3.29 seconds | Samples: 72633 | Sent: 47433
+
+Num Buffs: 7 | Buff Total Size: 44100  |Rec Start: 4 / 7
+Length: 2.47 seconds | Samples: 54474 | Sent: 35574
+
+Num Buffs: 7 | Buff Total Size: 44100  |Rec Start: 5 / 7
+Length: 1.65 seconds | Samples: 36315 | Sent: 23715
+
+Num Buffs: 7 | Buff Total Size: 44100  |Rec Start: 6 / 7
+Length: 0.82 seconds | Samples: 18156 | Sent: 11856
+
+Num Buffs: 7 | Buff Total Size: 66150  |Rec Start: 3 / 7
+Length: 4.94 seconds | Samples: 108951 | Sent: 71151
+
+Num Buffs: 7 | Buff Total Size: 66150  |Rec Start: 4 / 7
+Length: 3.71 seconds | Samples: 81712 | Sent: 53362
+
+Num Buffs: 7 | Buff Total Size: 66150  |Rec Start: 5 / 7
+Length: 2.47 seconds | Samples: 54474 | Sent: 35574
+
+Num Buffs: 7 | Buff Total Size: 66150  |Rec Start: 6 / 7
+Length: 1.24 seconds | Samples: 27236 | Sent: 17786
+
+Num Buffs: 7 | Buff Total Size: 88200  |Rec Start: 3 / 7
+Length: 6.59 seconds | Samples: 145268 | Sent: 94868
+
+Num Buffs: 7 | Buff Total Size: 88200  |Rec Start: 4 / 7
+Length: 4.94 seconds | Samples: 108951 | Sent: 71151
+
+Num Buffs: 7 | Buff Total Size: 88200  |Rec Start: 5 / 7
+Length: 3.29 seconds | Samples: 72633 | Sent: 47433
+
+Num Buffs: 7 | Buff Total Size: 88200  |Rec Start: 6 / 7
+Length: 1.65 seconds | Samples: 36315 | Sent: 23715
+
+Num Buffs: 8 | Buff Total Size: 22050  |Rec Start: 3 / 8
+Length: 1.8 seconds | Samples: 39721 | Sent: 25940
+
+Num Buffs: 8 | Buff Total Size: 22050  |Rec Start: 4 / 8
+Length: 1.44 seconds | Samples: 31776 | Sent: 20751
+
+Num Buffs: 8 | Buff Total Size: 22050  |Rec Start: 5 / 8
+Length: 1.08 seconds | Samples: 23831 | Sent: 15563
+
+Num Buffs: 8 | Buff Total Size: 22050  |Rec Start: 6 / 8
+Length: 0.72 seconds | Samples: 15887 | Sent: 10375
+
+Num Buffs: 8 | Buff Total Size: 22050  |Rec Start: 7 / 8
+Length: 0.36 seconds | Samples: 7943 | Sent: 5187
+
+Num Buffs: 8 | Buff Total Size: 44100  |Rec Start: 3 / 8
+Length: 3.6 seconds | Samples: 79443 | Sent: 51881
+
+Num Buffs: 8 | Buff Total Size: 44100  |Rec Start: 4 / 8
+Length: 2.88 seconds | Samples: 63554 | Sent: 41504
+
+Num Buffs: 8 | Buff Total Size: 44100  |Rec Start: 5 / 8
+Length: 2.16 seconds | Samples: 47665 | Sent: 31128
+
+Num Buffs: 8 | Buff Total Size: 44100  |Rec Start: 6 / 8
+Length: 1.44 seconds | Samples: 31776 | Sent: 20751
+
+Num Buffs: 8 | Buff Total Size: 44100  |Rec Start: 7 / 8
+Length: 0.72 seconds | Samples: 15887 | Sent: 10375
+
+Num Buffs: 8 | Buff Total Size: 66150  |Rec Start: 3 / 8
+Length: 5.4 seconds | Samples: 119165 | Sent: 77822
+
+Num Buffs: 8 | Buff Total Size: 66150  |Rec Start: 4 / 8
+Length: 4.32 seconds | Samples: 95331 | Sent: 62256
+
+Num Buffs: 8 | Buff Total Size: 66150  |Rec Start: 5 / 8
+Length: 3.24 seconds | Samples: 71499 | Sent: 46693
+
+Num Buffs: 8 | Buff Total Size: 66150  |Rec Start: 6 / 8
+Length: 2.16 seconds | Samples: 47665 | Sent: 31128
+
+Num Buffs: 8 | Buff Total Size: 66150  |Rec Start: 7 / 8
+Length: 1.08 seconds | Samples: 23831 | Sent: 15563
+
+Num Buffs: 8 | Buff Total Size: 88200  |Rec Start: 3 / 8
+Length: 7.21 seconds | Samples: 158887 | Sent: 103762
+
+Num Buffs: 8 | Buff Total Size: 88200  |Rec Start: 4 / 8
+Length: 5.76 seconds | Samples: 127109 | Sent: 83009
+
+Num Buffs: 8 | Buff Total Size: 88200  |Rec Start: 5 / 8
+Length: 4.32 seconds | Samples: 95331 | Sent: 62256
+
+Num Buffs: 8 | Buff Total Size: 88200  |Rec Start: 6 / 8
+Length: 2.88 seconds | Samples: 63554 | Sent: 41504
+
+Num Buffs: 8 | Buff Total Size: 88200  |Rec Start: 7 / 8
+Length: 1.44 seconds | Samples: 31776 | Sent: 20751
+
+Num Buffs: 9 | Buff Total Size: 22050  |Rec Start: 3 / 9
+Length: 1.92 seconds | Samples: 42368 | Sent: 27668
+
+Num Buffs: 9 | Buff Total Size: 22050  |Rec Start: 4 / 9
+Length: 1.6 seconds | Samples: 35306 | Sent: 23056
+
+Num Buffs: 9 | Buff Total Size: 22050  |Rec Start: 5 / 9
+Length: 1.28 seconds | Samples: 28245 | Sent: 18445
+
+Num Buffs: 9 | Buff Total Size: 22050  |Rec Start: 6 / 9
+Length: 0.96 seconds | Samples: 21183 | Sent: 13833
+
+Num Buffs: 9 | Buff Total Size: 22050  |Rec Start: 7 / 9
+Length: 0.64 seconds | Samples: 14121 | Sent: 9221
+
+Num Buffs: 9 | Buff Total Size: 22050  |Rec Start: 8 / 9
+Length: 0.32 seconds | Samples: 7059 | Sent: 4609
+
+Num Buffs: 9 | Buff Total Size: 44100  |Rec Start: 3 / 9
+Length: 3.84 seconds | Samples: 84739 | Sent: 55339
+
+Num Buffs: 9 | Buff Total Size: 44100  |Rec Start: 4 / 9
+Length: 3.2 seconds | Samples: 70615 | Sent: 46115
+
+Num Buffs: 9 | Buff Total Size: 44100  |Rec Start: 5 / 9
+Length: 2.56 seconds | Samples: 56492 | Sent: 36892
+
+Num Buffs: 9 | Buff Total Size: 44100  |Rec Start: 6 / 9
+Length: 1.92 seconds | Samples: 42368 | Sent: 27668
+
+Num Buffs: 9 | Buff Total Size: 44100  |Rec Start: 7 / 9
+Length: 1.28 seconds | Samples: 28245 | Sent: 18445
+
+Num Buffs: 9 | Buff Total Size: 44100  |Rec Start: 8 / 9
+Length: 0.64 seconds | Samples: 14121 | Sent: 9221
+
+Num Buffs: 9 | Buff Total Size: 66150  |Rec Start: 3 / 9
+Length: 5.76 seconds | Samples: 127109 | Sent: 83009
+
+Num Buffs: 9 | Buff Total Size: 66150  |Rec Start: 4 / 9
+Length: 4.8 seconds | Samples: 105924 | Sent: 69174
+
+Num Buffs: 9 | Buff Total Size: 66150  |Rec Start: 5 / 9
+Length: 3.84 seconds | Samples: 84739 | Sent: 55339
+
+Num Buffs: 9 | Buff Total Size: 66150  |Rec Start: 6 / 9
+Length: 2.88 seconds | Samples: 63554 | Sent: 41504
+
+Num Buffs: 9 | Buff Total Size: 66150  |Rec Start: 7 / 9
+Length: 1.92 seconds | Samples: 42368 | Sent: 27668
+
+Num Buffs: 9 | Buff Total Size: 66150  |Rec Start: 8 / 9
+Length: 0.96 seconds | Samples: 21183 | Sent: 13833
+
+Num Buffs: 9 | Buff Total Size: 88200  |Rec Start: 3 / 9
+Length: 7.69 seconds | Samples: 169480 | Sent: 110680
+
+Num Buffs: 9 | Buff Total Size: 88200  |Rec Start: 4 / 9
+Length: 6.41 seconds | Samples: 141233 | Sent: 92233
+
+Num Buffs: 9 | Buff Total Size: 88200  |Rec Start: 5 / 9
+Length: 5.12 seconds | Samples: 112986 | Sent: 73786
+
+Num Buffs: 9 | Buff Total Size: 88200  |Rec Start: 6 / 9
+Length: 3.84 seconds | Samples: 84739 | Sent: 55339
+
+Num Buffs: 9 | Buff Total Size: 88200  |Rec Start: 7 / 9
+Length: 2.56 seconds | Samples: 56492 | Sent: 36892
+
+Num Buffs: 9 | Buff Total Size: 88200  |Rec Start: 8 / 9
+Length: 1.28 seconds | Samples: 28245 | Sent: 18445
+
